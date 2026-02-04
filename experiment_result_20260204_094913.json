@@ -1,0 +1,252 @@
+[
+    {
+        "process_name": "（1）配置硫酸铜溶液",
+        "state": "executing",
+        "steps": [
+            {
+                "step_id": 1,
+                "description": "拿取药剂颗粒瓶 (硫酸铜)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 2,
+                "description": "加料烧杯 (适量硫酸铜颗粒)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 3,
+                "description": "放置药剂颗粒瓶 (放回原处)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 4,
+                "description": "倾倒烧杯 (适量蒸馏水)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 5,
+                "description": "搅拌烧杯 (搅拌均匀)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 6,
+                "description": "倾倒广口玻璃瓶 (全部溶液)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 7,
+                "description": "倾倒烧杯 (适量蒸馏水)",
+                "passed": "no"
+            },
+            {
+                "step_id": 8,
+                "description": "刷洗烧杯和玻璃棒 (清洗干净)",
+                "passed": "no"
+            },
+            {
+                "step_id": 9,
+                "description": "倾倒废液缸 (废液)",
+                "passed": "no"
+            }
+        ],
+        "pass_check": true,
+        "missing_incorrect_steps": "step7, step8, step9",
+        "qwen_analysis": "视频中展示了取硫酸铜、加水搅拌、倒入广口瓶、刷洗烧杯和玻璃棒、倒废液等步骤，与文本完全一致。",
+        "video_link": "F:\\Code\\SOPActionRecognition\\化学\\20260202\\videos\\SOP_step\\SOP_step_1.mp4",
+        "sop_text": "拿取药剂颗粒瓶 (硫酸铜); 加料烧杯 (适量硫酸铜颗粒); 放置药剂颗粒瓶 (放回原处); 倾倒烧杯 (适量蒸馏水); 搅拌烧杯 (搅拌均匀); 倾倒广口玻璃瓶 (全部溶液); 倾倒烧杯 (适量蒸馏水); 刷洗烧杯和玻璃棒 (清洗干净); 倾倒废液缸 (废液); ",
+        "sop_video_link": "https://hengjiyuan.oss-cn-shanghai.aliyuncs.com/HX20251218/SOP/SOP_step01.mp4"
+    },
+    {
+        "process_name": "（2）配置氢氧化钠溶液",
+        "state": "executing",
+        "steps": [
+            {
+                "step_id": 10,
+                "description": "拿取药剂颗粒瓶 (氢氧化钠)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 11,
+                "description": "加料烧杯 (适量氢氧化钠颗粒)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 12,
+                "description": "放置药剂颗粒瓶 (放回原处)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 13,
+                "description": "倾倒烧杯 (适量蒸馏水)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 14,
+                "description": "搅拌烧杯 (搅拌均匀)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 15,
+                "description": "倾倒广口玻璃瓶 (全部溶液)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 16,
+                "description": "倾倒烧杯 (适量蒸馏水)",
+                "passed": "no"
+            },
+            {
+                "step_id": 17,
+                "description": "刷洗烧杯和玻璃棒 (清洗干净)",
+                "passed": "no"
+            },
+            {
+                "step_id": 18,
+                "description": "倾倒废液缸 (废液)",
+                "passed": "no"
+            }
+        ],
+        "pass_check": false,
+        "missing_incorrect_steps": "step16, step17, step18",
+        "qwen_analysis": "视频中未出现氢氧化钠颗粒和广口瓶，未完成倒入溶液和刷洗烧杯动作。",
+        "video_link": "F:\\Code\\SOPActionRecognition\\化学\\20260202\\videos\\SOP_step\\SOP_step_2.mp4",
+        "sop_text": "拿取药剂颗粒瓶 (氢氧化钠); 加料烧杯 (适量氢氧化钠颗粒); 放置药剂颗粒瓶 (放回原处); 倾倒烧杯 (适量蒸馏水); 搅拌烧杯 (搅拌均匀); 倾倒广口玻璃瓶 (全部溶液); 倾倒烧杯 (适量蒸馏水); 刷洗烧杯和玻璃棒 (清洗干净); 倾倒废液缸 (废液); ",
+        "sop_video_link": "https://hengjiyuan.oss-cn-shanghai.aliyuncs.com/HX20251218/SOP/SOP_step02.mp4"
+    },
+    {
+        "process_name": "（3）配置柠檬酸溶液",
+        "state": "executing",
+        "steps": [
+            {
+                "step_id": 19,
+                "description": "拿取药剂颗粒瓶 (柠檬酸)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 20,
+                "description": "加料烧杯 (适量柠檬酸颗粒)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 21,
+                "description": "放置药剂颗粒瓶 (放回原处)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 22,
+                "description": "倾倒烧杯 (适量蒸馏水)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 23,
+                "description": "搅拌烧杯 (搅拌均匀)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 24,
+                "description": "倾倒广口玻璃瓶 (全部溶液)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 25,
+                "description": "倾倒烧杯 (适量蒸馏水)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 26,
+                "description": "刷洗烧杯和玻璃棒 (清洗干净)",
+                "passed": "no"
+            },
+            {
+                "step_id": 27,
+                "description": "倾倒废液缸 (废液)",
+                "passed": "no"
+            }
+        ],
+        "pass_check": true,
+        "missing_incorrect_steps": "step26, step27",
+        "qwen_analysis": "视频中展示了取柠檬酸、加水、搅拌、倒入广口瓶的完整过程，与文本步骤一致。",
+        "video_link": "F:\\Code\\SOPActionRecognition\\化学\\20260202\\videos\\SOP_step\\SOP_step_3.mp4",
+        "sop_text": "拿取药剂颗粒瓶 (柠檬酸); 加料烧杯 (适量柠檬酸颗粒); 放置药剂颗粒瓶 (放回原处); 倾倒烧杯 (适量蒸馏水); 搅拌烧杯 (搅拌均匀); 倾倒广口玻璃瓶 (全部溶液); 倾倒烧杯 (适量蒸馏水); 刷洗烧杯和玻璃棒 (清洗干净); 倾倒废液缸 (废液); ",
+        "sop_video_link": "https://hengjiyuan.oss-cn-shanghai.aliyuncs.com/HX20251218/SOP/SOP_step03.mp4"
+    },
+    {
+        "process_name": "（4）在点滴板上进行实验",
+        "state": "executing",
+        "steps": [
+            {
+                "step_id": 28,
+                "description": "拿取点滴板",
+                "passed": "yes"
+            },
+            {
+                "step_id": 29,
+                "description": "滴加点滴板 (氢氧化钠溶液，3-5滴)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 30,
+                "description": "滴加点滴板 (柠檬酸溶液，3-5滴)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 31,
+                "description": "滴加点滴板 (石蕊试剂，2-3滴)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 32,
+                "description": "滴加点滴板 (酚酞试剂，2-3滴)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 33,
+                "description": "倾倒废液缸 (混合废液)",
+                "passed": "no"
+            },
+            {
+                "step_id": 34,
+                "description": "放置点滴板 (放回指定位置)",
+                "passed": "no"
+            }
+        ],
+        "pass_check": false,
+        "missing_incorrect_steps": "step33, step34",
+        "qwen_analysis": "视频中未出现柠檬酸溶液和酚酞溶液的使用，缺少部分实验步骤。",
+        "video_link": "F:\\Code\\SOPActionRecognition\\化学\\20260202\\videos\\SOP_step\\SOP_step_4.mp4",
+        "sop_text": "拿取点滴板; 滴加点滴板 (氢氧化钠溶液，3-5滴); 滴加点滴板 (柠檬酸溶液，3-5滴); 滴加点滴板 (石蕊试剂，2-3滴); 滴加点滴板 (酚酞试剂，2-3滴); 倾倒废液缸 (混合废液); 放置点滴板 (放回指定位置); ",
+        "sop_video_link": "https://hengjiyuan.oss-cn-shanghai.aliyuncs.com/HX20251218/SOP/SOP_step04.mp4"
+    },
+    {
+        "process_name": "（5）在试管中进行实验",
+        "state": "completed",
+        "steps": [
+            {
+                "step_id": 35,
+                "description": "拿取试管",
+                "passed": "yes"
+            },
+            {
+                "step_id": 36,
+                "description": "滴加试管 (硫酸铜溶液，9-10滴)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 37,
+                "description": "滴加试管 (氢氧化钠溶液，3-5滴)",
+                "passed": "yes"
+            },
+            {
+                "step_id": 38,
+                "description": "放置试管架 (将试管放回)",
+                "passed": "yes"
+            }
+        ],
+        "pass_check": true,
+        "missing_incorrect_steps": "",
+        "qwen_analysis": "",
+        "video_link": "F:\\Code\\SOPActionRecognition\\化学\\20260202\\videos\\SOP_step\\SOP_step_5.mp4",
+        "sop_text": "拿取试管; 滴加试管 (硫酸铜溶液，9-10滴); 滴加试管 (氢氧化钠溶液，3-5滴); 放置试管架 (将试管放回); ",
+        "sop_video_link": "https://hengjiyuan.oss-cn-shanghai.aliyuncs.com/HX20251218/SOP/SOP_step05.mp4"
+    }
+]

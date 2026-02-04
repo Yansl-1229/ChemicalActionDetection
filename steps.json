@@ -1,0 +1,344 @@
+[
+    {
+        "id": "1",
+        "phase": "（1）配置硫酸铜溶液",
+        "action": "拿取",
+        "subject": "手",
+        "object": "药剂颗粒瓶",
+        "constraint": "硫酸铜",
+        "label": "start"
+    },
+    {
+        "id": "2",
+        "phase": "（1）配置硫酸铜溶液",
+        "action": "加料",
+        "subject": "药匙",
+        "object": "烧杯",
+        "constraint": "适量硫酸铜颗粒",
+        "label": "none"
+    },
+    {
+        "id": "3",
+        "phase": "（1）配置硫酸铜溶液",
+        "action": "放置",
+        "subject": "手",
+        "object": "药剂颗粒瓶",
+        "constraint": "放回原处",
+        "label": "none"
+    },
+    {
+        "id": "4",
+        "phase": "（1）配置硫酸铜溶液",
+        "action": "倾倒",
+        "subject": "蒸馏水水杯",
+        "object": "烧杯",
+        "constraint": "适量蒸馏水",
+        "label": "none"
+    },
+    {
+        "id": "5",
+        "phase": "（1）配置硫酸铜溶液",
+        "action": "搅拌",
+        "subject": "玻璃棒",
+        "object": "烧杯",
+        "constraint": "搅拌均匀",
+        "label": "none"
+    },
+    {
+        "id": "6",
+        "phase": "（1）配置硫酸铜溶液",
+        "action": "倾倒",
+        "subject": "烧杯",
+        "object": "广口玻璃瓶",
+        "constraint": "全部溶液",
+        "label": "none"
+    },
+    {
+        "id": "7",
+        "phase": "（1）配置硫酸铜溶液",
+        "action": "倾倒",
+        "subject": "蒸馏水水杯",
+        "object": "烧杯",
+        "constraint": "适量蒸馏水",
+        "label": "none"
+    },
+    {
+        "id": "8",
+        "phase": "（1）配置硫酸铜溶液",
+        "action": "刷洗",
+        "subject": "玻璃棒",
+        "object": "烧杯",
+        "constraint": "清洗干净",
+        "label": "none"
+    },
+    {
+        "id": "9",
+        "phase": "（1）配置硫酸铜溶液",
+        "action": "倾倒",
+        "subject": "烧杯",
+        "object": "废液缸",
+        "constraint": "废液",
+        "label": "end"
+    },
+    {
+        "id": "10",
+        "phase": "（2）配置氢氧化钠溶液",
+        "action": "拿取",
+        "subject": "手",
+        "object": "药剂颗粒瓶",
+        "constraint": "氢氧化钠",
+        "label": "start"
+    },
+    {
+        "id": "11",
+        "phase": "（2）配置氢氧化钠溶液",
+        "action": "加料",
+        "subject": "药匙",
+        "object": "烧杯",
+        "constraint": "适量氢氧化钠颗粒",
+        "label": "none"
+    },
+    {
+        "id": "12",
+        "phase": "（2）配置氢氧化钠溶液",
+        "action": "放置",
+        "subject": "手",
+        "object": "药剂颗粒瓶",
+        "constraint": "放回原处",
+        "label": "none"
+    },
+    {
+        "id": "13",
+        "phase": "（2）配置氢氧化钠溶液",
+        "action": "倾倒",
+        "subject": "蒸馏水水杯",
+        "object": "烧杯",
+        "constraint": "适量蒸馏水",
+        "label": "none"
+    },
+    {
+        "id": "14",
+        "phase": "（2）配置氢氧化钠溶液",
+        "action": "搅拌",
+        "subject": "玻璃棒",
+        "object": "烧杯",
+        "constraint": "搅拌均匀",
+        "label": "none"
+    },
+    {
+        "id": "15",
+        "phase": "（2）配置氢氧化钠溶液",
+        "action": "倾倒",
+        "subject": "烧杯",
+        "object": "广口玻璃瓶",
+        "constraint": "全部溶液",
+        "label": "none"
+    },
+    {
+        "id": "16",
+        "phase": "（2）配置氢氧化钠溶液",
+        "action": "倾倒",
+        "subject": "蒸馏水水杯",
+        "object": "烧杯",
+        "constraint": "适量蒸馏水",
+        "label": "none"
+    },
+    {
+        "id": "17",
+        "phase": "（2）配置氢氧化钠溶液",
+        "action": "刷洗",
+        "subject": "玻璃棒",
+        "object": "烧杯",
+        "constraint": "清洗干净",
+        "label": "none"
+    },
+    {
+        "id": "18",
+        "phase": "（2）配置氢氧化钠溶液",
+        "action": "倾倒",
+        "subject": "烧杯",
+        "object": "废液缸",
+        "constraint": "废液",
+        "label": "end"
+    },
+    {
+        "id": "19",
+        "phase": "（3）配置柠檬酸溶液",
+        "action": "拿取",
+        "subject": "手",
+        "object": "药剂颗粒瓶",
+        "constraint": "柠檬酸",
+        "label": "start"
+    },
+    {
+        "id": "20",
+        "phase": "（3）配置柠檬酸溶液",
+        "action": "加料",
+        "subject": "药匙",
+        "object": "烧杯",
+        "constraint": "适量柠檬酸颗粒",
+        "label": "none"
+    },
+    {
+        "id": "21",
+        "phase": "（3）配置柠檬酸溶液",
+        "action": "放置",
+        "subject": "手",
+        "object": "药剂颗粒瓶",
+        "constraint": "放回原处",
+        "label": "none"
+    },
+    {
+        "id": "22",
+        "phase": "（3）配置柠檬酸溶液",
+        "action": "倾倒",
+        "subject": "蒸馏水水杯",
+        "object": "烧杯",
+        "constraint": "适量蒸馏水",
+        "label": "none"
+    },
+    {
+        "id": "23",
+        "phase": "（3）配置柠檬酸溶液",
+        "action": "搅拌",
+        "subject": "玻璃棒",
+        "object": "烧杯",
+        "constraint": "搅拌均匀",
+        "label": "none"
+    },
+    {
+        "id": "24",
+        "phase": "（3）配置柠檬酸溶液",
+        "action": "倾倒",
+        "subject": "烧杯",
+        "object": "广口玻璃瓶",
+        "constraint": "全部溶液",
+        "label": "none"
+    },
+    {
+        "id": "25",
+        "phase": "（3）配置柠檬酸溶液",
+        "action": "倾倒",
+        "subject": "蒸馏水水杯",
+        "object": "烧杯",
+        "constraint": "适量蒸馏水",
+        "label": "none"
+    },
+    {
+        "id": "26",
+        "phase": "（3）配置柠檬酸溶液",
+        "action": "刷洗",
+        "subject": "玻璃棒",
+        "object": "烧杯",
+        "constraint": "清洗干净",
+        "label": "none"
+    },
+    {
+        "id": "27",
+        "phase": "（3）配置柠檬酸溶液",
+        "action": "倾倒",
+        "subject": "烧杯",
+        "object": "废液缸",
+        "constraint": "废液",
+        "label": "end"
+    },
+    {
+        "id": "28",
+        "phase": "（4）在点滴板上进行实验",
+        "action": "拿取",
+        "subject": "手",
+        "object": "点滴板",
+        "constraint": "",
+        "label": "start"
+    },
+    {
+        "id": "29",
+        "phase": "（4）在点滴板上进行实验",
+        "action": "滴加",
+        "subject": "胶头滴管",
+        "object": "点滴板",
+        "constraint": "氢氧化钠溶液，3-5滴",
+        "label": "none"
+    },
+    {
+        "id": "30",
+        "phase": "（4）在点滴板上进行实验",
+        "action": "滴加",
+        "subject": "胶头滴管",
+        "object": "点滴板",
+        "constraint": "柠檬酸溶液，3-5滴",
+        "label": "none"
+    },
+    {
+        "id": "31",
+        "phase": "（4）在点滴板上进行实验",
+        "action": "滴加",
+        "subject": "胶头滴管",
+        "object": "点滴板",
+        "constraint": "石蕊试剂，2-3滴",
+        "label": "none"
+    },
+    {
+        "id": "32",
+        "phase": "（4）在点滴板上进行实验",
+        "action": "滴加",
+        "subject": "胶头滴管",
+        "object": "点滴板",
+        "constraint": "酚酞试剂，2-3滴",
+        "label": "none"
+    },
+    {
+        "id": "33",
+        "phase": "（4）在点滴板上进行实验",
+        "action": "倾倒",
+        "subject": "点滴板",
+        "object": "废液缸",
+        "constraint": "混合废液",
+        "label": "none"
+    },
+    {
+        "id": "34",
+        "phase": "（4）在点滴板上进行实验",
+        "action": "放置",
+        "subject": "手",
+        "object": "点滴板",
+        "constraint": "放回指定位置",
+        "label": "end"
+    },
+    {
+        "id": "35",
+        "phase": "（5）在试管中进行实验",
+        "action": "拿取",
+        "subject": "手",
+        "object": "试管",
+        "constraint": "",
+        "label": "start"
+    },
+    {
+        "id": "36",
+        "phase": "（5）在试管中进行实验",
+        "action": "滴加",
+        "subject": "塑料滴管",
+        "object": "试管",
+        "constraint": "硫酸铜溶液，9-10滴",
+        "label": "none"
+    },
+    {
+        "id": "37",
+        "phase": "（5）在试管中进行实验",
+        "action": "滴加",
+        "subject": "胶头滴管",
+        "object": "试管",
+        "constraint": "氢氧化钠溶液，3-5滴",
+        "label": "none"
+    },
+    {
+        "id": "38",
+        "phase": "（5）在试管中进行实验",
+        "action": "加料",
+        "subject": "试管",
+        "object": "试管架",
+        "constraint": "将试管放回",
+        "label": "end"
+    }
+]

@@ -1,0 +1,39 @@
+2026-02-04 09:49:13,959 - Segment Started at frame 0 (Step 1)
+2026-02-04 09:53:04,059 - [01:19] JUMP DETECTED: Skipped from Step 7 to Step 10
+2026-02-04 09:53:04,157 - Jump detected! Skipped steps: [7, 8, 9]
+2026-02-04 09:53:04,159 - Segment Started at frame 2382 (Step 10)
+2026-02-04 09:53:52,284 - Exported segment: F:\Code\SOPActionRecognition\化学\20260202\videos\SOP_step\SOP_step_1.mp4
+2026-02-04 09:53:58,118 - HTTP Request: GET http://36.7.148.20:9100/api/vllm/v1/models "HTTP/1.1 200 OK"
+2026-02-04 09:54:08,587 - HTTP Request: POST http://36.7.148.20:9100/api/vllm/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-04 09:54:08,606 - Qwen Analysis [step01]: {
+    "pass_check": true,
+    "qwen_analysis": "视频中展示了取硫酸铜、加水搅拌、倒入广口瓶、刷洗烧杯和玻璃棒、倒废液等步骤，与文本完全一致。"
+}
+2026-02-04 09:59:32,054 - [03:36] JUMP DETECTED: Skipped from Step 16 to Step 19
+2026-02-04 09:59:32,158 - Jump detected! Skipped steps: [16, 17, 18]
+2026-02-04 09:59:32,158 - Segment Started at frame 6476 (Step 19)
+2026-02-04 10:00:44,659 - Exported segment: F:\Code\SOPActionRecognition\化学\20260202\videos\SOP_step\SOP_step_2.mp4
+2026-02-04 10:01:02,541 - HTTP Request: POST http://36.7.148.20:9100/api/vllm/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-04 10:01:02,561 - Qwen Analysis [step02]: {
+    "pass_check": false,
+    "qwen_analysis": "视频中未出现氢氧化钠颗粒和广口瓶，未完成倒入溶液和刷洗烧杯动作。"
+}
+2026-02-04 10:02:33,765 - [04:41] JUMP DETECTED: Skipped from Step 26 to Step 28
+2026-02-04 10:02:33,848 - Jump detected! Skipped steps: [26, 27]
+2026-02-04 10:02:33,848 - Segment Started at frame 8440 (Step 28)
+2026-02-04 10:03:07,504 - Exported segment: F:\Code\SOPActionRecognition\化学\20260202\videos\SOP_step\SOP_step_3.mp4
+2026-02-04 10:03:16,165 - HTTP Request: POST http://36.7.148.20:9100/api/vllm/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-04 10:03:16,176 - Qwen Analysis [step03]: {
+    "pass_check": true,
+    "qwen_analysis": "视频中展示了取柠檬酸、加水、搅拌、倒入广口瓶的完整过程，与文本步骤一致。"
+}
+2026-02-04 10:05:59,022 - [05:56] JUMP DETECTED: Skipped from Step 33 to Step 35
+2026-02-04 10:05:59,129 - Jump detected! Skipped steps: [33, 34]
+2026-02-04 10:05:59,130 - Segment Started at frame 10676 (Step 35)
+2026-02-04 10:06:46,082 - Exported segment: F:\Code\SOPActionRecognition\化学\20260202\videos\SOP_step\SOP_step_4.mp4
+2026-02-04 10:06:55,221 - HTTP Request: POST http://36.7.148.20:9100/api/vllm/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-04 10:06:55,242 - Qwen Analysis [step04]: {
+    "pass_check": false,
+    "qwen_analysis": "视频中未出现柠檬酸溶液和酚酞溶液的使用，缺少部分实验步骤。"
+}
+2026-02-04 10:08:15,092 - Exported segment: F:\Code\SOPActionRecognition\化学\20260202\videos\SOP_step\SOP_step_5.mp4
